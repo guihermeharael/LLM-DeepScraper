@@ -1,0 +1,13 @@
+# Automação de Navegador e Browser Engine
+DrissionPage
+
+# Orquestração Multi-Agente e LLM Scraping
+scrapegraphai
+
+# Processamento de Dados e HTML
+beautifulsoup4
+html2text
+pydantic
+
+# Utilitários de Sistema e Ambiente
+python-dotenv
